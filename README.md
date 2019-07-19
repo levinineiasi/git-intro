@@ -1,3 +1,3 @@
 # git-intro
 
-`git` is nice
+`git` is not always nice
